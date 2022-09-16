@@ -1,0 +1,42 @@
+.qrcode h1{
+/* Heading */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+text-align: center;
+
+/* Dark Navy */
+color: #1F314F;
+}
+
+
+
+
+.qrcode p{
+/* Body */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.1875px;
+
+/* Grey */
+color: #7D889E;
+}
+.qrcode{
+    border-radius: 20px;
+    margin:auto;
+    margin-bottom: 1rem;
+    margin-top: 10%;
+}
+.qrcode img{
+    border-radius: 10px;
+
+}
+body{
+    background-color:hsl(212, 45%, 89%);
+}
